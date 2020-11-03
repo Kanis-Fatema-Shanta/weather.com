@@ -1,0 +1,21 @@
+@media screen and (max-width: 700px) {
+    .row{   
+      flex-direction: column;
+    }
+    .sun-img{
+        height: 30px;
+        width: 30px;
+    }
+  }
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("images/bg.jpg");
+}
+.container-fluid{
+    /* background-color: #6359DF; */
+    margin: 0px 0px;
+}
+.navbar{
+    color: white;
+}
