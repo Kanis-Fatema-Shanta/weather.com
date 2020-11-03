@@ -19,3 +19,30 @@ body{
 .navbar{
     color: white;
 }
+.row{
+    margin: 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.left-main{
+    flex: 50%;
+    /* background-color: #6359DF; */
+    padding: 5%;
+    color: white;
+}
+
+.right-main-box{
+    /* background-color: #230697; */
+    flex: 50%;
+    padding: 5%;
+    color: white;
+}
+.head{
+    background-color: #013074;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #0b67e7;
+}
+.head img{
+    height: 60px;
+    width: 65px;
+}
