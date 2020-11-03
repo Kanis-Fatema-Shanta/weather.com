@@ -46,3 +46,19 @@ body{
     height: 60px;
     width: 65px;
 }
+
+
+.sun-img{
+    height: 80px;
+    width: 85px;
+}
+.temp , .sky{
+    background-color: #007FCA;
+    color: white;
+    height: 150px;
+    width: 150px;
+    margin: 20px 5px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px #013074;
+}
